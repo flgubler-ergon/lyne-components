@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/sbb-design-systems/lyne-components/compare/v2.1.0...v2.2.0) (2025-01-27)
+
+
+### Features
+
+* **sbb-autocomplete:** opens automatically on new options ([#3365](https://github.com/sbb-design-systems/lyne-components/issues/3365)) ([8ca33ef](https://github.com/sbb-design-systems/lyne-components/commit/8ca33efa135ae933842161bcd820538815fe9d0a))
+
+
+### Bug Fixes
+
+* display non bubbling events in storybook actions ([#3355](https://github.com/sbb-design-systems/lyne-components/issues/3355)) ([fdf9899](https://github.com/sbb-design-systems/lyne-components/commit/fdf9899f58e9ace31b93a8d073c5f61fd984c59d)), closes [#3354](https://github.com/sbb-design-systems/lyne-components/issues/3354)
+* **sbb-radio-button-group:** prevent didChange emit from nested group ([#3371](https://github.com/sbb-design-systems/lyne-components/issues/3371)) ([3fca755](https://github.com/sbb-design-systems/lyne-components/commit/3fca755b5d68b686eb60ab510cabd466c97207f4))
+
+
+### Documentation
+
+* **sbb-popover:** enable focusing link in storybook ([#3359](https://github.com/sbb-design-systems/lyne-components/issues/3359)) ([6c23eeb](https://github.com/sbb-design-systems/lyne-components/commit/6c23eeb6f49a003cbf6a97f86731c854928648e9))
+
+
+### Code Refactoring
+
+* **sbb-title, sbb-dialog-title:** remove obsolete h1-h6 tags ([#3363](https://github.com/sbb-design-systems/lyne-components/issues/3363)) ([a64ea72](https://github.com/sbb-design-systems/lyne-components/commit/a64ea7279f765c46fe7e96b8a02de7cd7a5515c0))
+
 ## [2.1.0](https://github.com/sbb-design-systems/lyne-components/compare/v2.0.3...v2.1.0) (2025-01-16)
 
 
